@@ -1,0 +1,5 @@
+a=tuple(map(int,input("enter the value:").split()))
+print(a)
+b=list(a)
+print(b)
+print(type(b))
