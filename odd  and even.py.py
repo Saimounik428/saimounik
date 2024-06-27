@@ -4,6 +4,6 @@ def check_odd_even(num):
     else:
         print(f"{num} is odd.")
 
-# Example usage:
-number = 48  # Replace with any number you want to check
+
+number = 48  
 check_odd_even(number)
